@@ -1,0 +1,7 @@
+Customer_ID,Segment,Revenue,Purchase_Date
+101,Segment A,500,2025-02-18
+102,Segment B,300,2025-02-18
+103,Segment A,700,2025-02-19
+104,Segment C,200,2025-02-19
+105,Segment B,400,2025-02-20
+106,Segment C,300,2025-02-20
